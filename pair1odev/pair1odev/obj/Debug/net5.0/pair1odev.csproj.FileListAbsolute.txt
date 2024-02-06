@@ -1,0 +1,16 @@
+C:\Users\lenovo\source\repos\pair1odev\pair1odev\bin\Debug\net5.0\pair1odev.exe
+C:\Users\lenovo\source\repos\pair1odev\pair1odev\bin\Debug\net5.0\pair1odev.deps.json
+C:\Users\lenovo\source\repos\pair1odev\pair1odev\bin\Debug\net5.0\pair1odev.runtimeconfig.json
+C:\Users\lenovo\source\repos\pair1odev\pair1odev\bin\Debug\net5.0\pair1odev.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\pair1odev\pair1odev\bin\Debug\net5.0\pair1odev.dll
+C:\Users\lenovo\source\repos\pair1odev\pair1odev\bin\Debug\net5.0\ref\pair1odev.dll
+C:\Users\lenovo\source\repos\pair1odev\pair1odev\bin\Debug\net5.0\pair1odev.pdb
+C:\Users\lenovo\source\repos\pair1odev\pair1odev\obj\Debug\net5.0\pair1odev.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\pair1odev\pair1odev\obj\Debug\net5.0\pair1odev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\pair1odev\pair1odev\obj\Debug\net5.0\pair1odev.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\pair1odev\pair1odev\obj\Debug\net5.0\pair1odev.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\pair1odev\pair1odev\obj\Debug\net5.0\pair1odev.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\pair1odev\pair1odev\obj\Debug\net5.0\pair1odev.dll
+C:\Users\lenovo\source\repos\pair1odev\pair1odev\obj\Debug\net5.0\ref\pair1odev.dll
+C:\Users\lenovo\source\repos\pair1odev\pair1odev\obj\Debug\net5.0\pair1odev.pdb
+C:\Users\lenovo\source\repos\pair1odev\pair1odev\obj\Debug\net5.0\pair1odev.genruntimeconfig.cache
